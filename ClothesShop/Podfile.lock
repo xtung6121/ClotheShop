@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (5.11.1)
+  - Differentiator (5.0.0)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - RxBlocking (6.9.0):
+    - RxSwift (= 6.9.0)
+  - RxCocoa (6.9.0):
+    - RxRelay (= 6.9.0)
+    - RxSwift (= 6.9.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.9.0):
+    - RxSwift (= 6.9.0)
+  - RxSwift (6.9.0)
+  - RxTest (6.9.0):
+    - RxSwift (= 6.9.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Moya
+  - Moya/RxSwift
+  - RxBlocking
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - RxTest
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - Moya
+    - RxBlocking
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - RxTest
+
+SPEC CHECKSUMS:
+  Alamofire: eec6cd8f73b242b59e34153a606a909eb9864b14
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  RxBlocking: 5d2b26d019b6ba9eb3f58638611f124609c44822
+  RxCocoa: ac16414696ae706516be3e1ab00fcce5bdc9be8a
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxRelay: 6b0c930e5cef57d5fe2032571e5e65b78e3cbdb1
+  RxSwift: 31649ace6aceeb422e16ff71c60804f9c3281ed9
+  RxTest: fa7749822359a10a19b9fa32b80dbe608e4ce44e
+
+PODFILE CHECKSUM: 18b0524cfbccd684254bcb932134847a9872e867
+
+COCOAPODS: 1.16.2

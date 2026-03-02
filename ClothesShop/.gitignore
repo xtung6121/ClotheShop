@@ -1,0 +1,67 @@
+# ==============================
+# Xcode
+# ==============================
+
+## User settings
+xcuserdata/
+*.xcuserstate
+
+## Derived data
+DerivedData/
+build/
+
+## Xcode project files
+*.xcworkspace/xcuserdata/
+
+# ==============================
+# Swift Package Manager
+# ==============================
+
+.build/
+Packages/
+
+# ==============================
+# CocoaPods
+# ==============================
+
+# We usually COMMIT Podfile & Podfile.lock
+Pods/
+
+# If you want to commit Pods (NOT recommended for most teams),
+# then remove the line above.
+
+# ==============================
+# Carthage
+# ==============================
+
+Carthage/Build/
+
+# ==============================
+# Fastlane
+# ==============================
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# ==============================
+# Archives
+# ==============================
+
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ==============================
+# macOS
+# ==============================
+
+.DS_Store
+
+# ==============================
+# Secrets
+# ==============================
+
+.env
+.env.*
