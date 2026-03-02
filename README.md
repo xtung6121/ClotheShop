@@ -51,6 +51,9 @@ open ClothesShop.xcworkspace
 ⚠️ Luôn mở .xcworkspace, không mở .xcodeproj
 
 4️⃣ Clean build (nếu gặp lỗi)
+
+Clean project:
+
 Shift + Command + K
 
 Hoặc xoá DerivedData:
@@ -105,11 +108,13 @@ Press Command + R
 
 🛑 Common Issues
 ❌ Pods not found
-
-Run:
-
 pod deintegrate
 pod install
 ❌ Build failed after pulling code
 pod install
-clean build
+
+Sau đó clean build (Shift + Command + K)
+
+📄 License
+
+Internal project – not for public distribution.
