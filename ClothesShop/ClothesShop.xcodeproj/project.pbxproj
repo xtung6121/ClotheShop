@@ -44,7 +44,6 @@
 		9835B6C32F55C58E005FA0C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9835B69C2F55C58E005FA0C0 /* LaunchScreen.storyboard */; };
 		9835B6C52F55C58E005FA0C0 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9835B68E2F55C58E005FA0C0 /* HomeViewController.xib */; };
 		9835B6C62F55C58E005FA0C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9835B6992F55C58E005FA0C0 /* Assets.xcassets */; };
-		9835B6C72F55C5CB005FA0C0 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9835B69A2F55C58E005FA0C0 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -325,7 +324,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9835B6C72F55C5CB005FA0C0 /* Info.plist in Resources */,
 				9835B6C22F55C58E005FA0C0 /* NotificationsViewController.xib in Resources */,
 				9835B6C32F55C58E005FA0C0 /* LaunchScreen.storyboard in Resources */,
 				9835B6C52F55C58E005FA0C0 /* HomeViewController.xib in Resources */,

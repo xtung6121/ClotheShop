@@ -26,7 +26,7 @@ public protocol NotificationsViewModelType {
     var outputs: NotificationsViewModelOutputs { get }
 }
 
-final class NotificationsViewModel: NotificationsViewModelType{
+final class NotificationsViewModel: NotificationsViewModelType {
     
     // MARK: - Typealias
     var inputs: NotificationsViewModelInputs { self }
