@@ -18,7 +18,6 @@
 		9835B6A82F55C58E005FA0C0 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9835B6972F55C58E005FA0C0 /* NetworkService.swift */; };
 		9835B6A92F55C58E005FA0C0 /* NotificationsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9835B6912F55C58E005FA0C0 /* NotificationsModel.swift */; };
 		9835B6AA2F55C58E005FA0C0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9835B68A2F55C58E005FA0C0 /* SceneDelegate.swift */; };
-		9835B6AB2F55C58E005FA0C0 /* ClothesShopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9835B69E2F55C58E005FA0C0 /* ClothesShopTests.swift */; };
 		9835B6AC2F55C58E005FA0C0 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9835B68F2F55C58E005FA0C0 /* HomeViewModel.swift */; };
 		9835B6AD2F55C58E005FA0C0 /* BaseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9835B6872F55C58E005FA0C0 /* BaseViewModel.swift */; };
 		9835B6AE2F55C58E005FA0C0 /* BaseCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9835B6852F55C58E005FA0C0 /* BaseCoordinator.swift */; };
@@ -435,7 +434,6 @@
 				9835B6A82F55C58E005FA0C0 /* NetworkService.swift in Sources */,
 				9835B6A92F55C58E005FA0C0 /* NotificationsModel.swift in Sources */,
 				9835B6AA2F55C58E005FA0C0 /* SceneDelegate.swift in Sources */,
-				9835B6AB2F55C58E005FA0C0 /* ClothesShopTests.swift in Sources */,
 				9835B6AC2F55C58E005FA0C0 /* HomeViewModel.swift in Sources */,
 				9835B6AD2F55C58E005FA0C0 /* BaseViewModel.swift in Sources */,
 				9835B6AE2F55C58E005FA0C0 /* BaseCoordinator.swift in Sources */,
